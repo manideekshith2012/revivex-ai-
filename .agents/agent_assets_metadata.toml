@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "SCc_t5lf3CxFTojuRnLdU"
+uri = "file://revivex-ai.tar.gz"
+type = "unspecified"
+title = "ReviveX AI — Full Project Source"
